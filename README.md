@@ -1,2 +1,1 @@
-# AltherPride-Community
-AltherPride Community is an inclusive SA-MP roleplay server built around immersive storytelling, player-driven development, and a safe, expressive environment for everyone.
+# AltherPride Community ![Static Badge](https://img.shields.io/badge/AltherPride-red?style=for-the-badge&logo=github&logoColor=white&color=ff0000)
